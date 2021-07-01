@@ -177,7 +177,7 @@ h2 ~ p {
   transform: translate(-50%, 0);
 }
 .hero-home {
-  background-image: url(/images/shark.jpg);
+  background-image: url(images/shark.jpg);
   background-position: center top;
 }
 .hero-content {
